@@ -6,7 +6,7 @@ const About = () => {
     <div id="about">
       <div className="left"></div>
       <div id="right">
-        <h1>Lorem Ipsum</h1>
+        <h1>Lorem ok</h1>
       </div>
     </div>
   );
