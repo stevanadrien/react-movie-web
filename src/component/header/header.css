@@ -1,0 +1,23 @@
+.headerContainer {
+  text-align: center;
+  height: 100%;
+  position: relative;
+}
+header {
+  height: auto;
+  margin-top: 4rem;
+}
+#social {
+  margin-left: 10px;
+  text-align: center;
+  left: 0;
+  color: white;
+}
+#github {
+  font-size: 30px;
+  color: white;
+  margin: 5px;
+}
+.CTA {
+  height: 10vh;
+}

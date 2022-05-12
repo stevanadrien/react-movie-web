@@ -1,0 +1,19 @@
+div {
+  height: 100vh;
+}
+.jpg {
+  width: 200px;
+  height: auto;
+  left: 50px;
+}
+#about {
+  display: flex;
+}
+#right {
+  background-color: blanchedalmond;
+  display: flex;
+  width: 500px;
+  height: 200px;
+  border-radius: 20px;
+  margin-left: 10px;
+}
